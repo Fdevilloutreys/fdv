@@ -1,0 +1,75 @@
+/* Colors and fonts */
+body {
+	background-color: rgb(230, 230, 230) ;
+	color: rgb(30, 30, 30);
+	font-family: Courier;
+}
+
+h1 {
+color: #d45252;
+font-family: agency FB;
+font-weight: 1000;
+letter-spacing: 3px;
+font-size: 80px;
+text-transform: uppercase;
+text-align: center;
+}
+h2, h3 {
+color: #5cc350;
+font-family: agency FB;
+font-weight: 800;
+letter-spacing: 3px;
+font-size: 50px;
+text-transform: uppercase;
+text-align: center;
+}
+p {
+color: #000000;
+font-weight: 100;
+letter-spacing: -1px;
+font-size: 30px;
+text-align: center;
+}
+a{
+color: #4177f1;
+font-family: Helvetica;
+font-weight: 100;
+letter-spacing: 1px;
+font-size: 20px;
+text-align: center;
+}
+
+li {
+color: #4177f1;
+font-family: Helvetica;
+font-weight: 100;
+letter-spacing: 1px;
+font-size: 20px;
+text-align: center;
+}
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
+
+ .div-green {
+ 	background: white;
+  	padding: 60px;
+ 	margin: 50px;
+   	box-shadow: 0px 10px 30px rgb(0, 0, 0,0.1);
+   	border-radius: 5px;
+
+ 	.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+display: inline;
+padding: 0px 20px;
+}
+
